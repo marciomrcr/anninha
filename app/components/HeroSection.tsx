@@ -47,7 +47,7 @@ const HeroSection: React.FC = () => {
             Fale Conosco
           </button>
         </div>
-        <div className="mt-12 text-8xl">👧✨</div>
+        
       </div>
     </section>
   );
